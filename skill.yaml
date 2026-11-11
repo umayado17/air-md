@@ -1,0 +1,5 @@
+name: "air_md_writing"
+title: "AIR.md の書き方（空気の引き継ぎ）"
+description: "議論や案件の「流れ・盛り上がり・空気」を、別の AI や未来の自分へ渡すバトンタッチメモ AIR.md として書く方法。引き継ぎで熱が落ちる失敗（失敗の判例）の蓄積の仕方を含む。"
+category: "Work and knowledge"
+include_in_prompt: true
